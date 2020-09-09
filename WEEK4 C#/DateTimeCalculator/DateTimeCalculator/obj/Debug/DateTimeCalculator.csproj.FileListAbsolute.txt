@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\DateTimeCalculator\DateTimeCalculator\bin\Debug\DateTimeCalculator.exe.config
+C:\Users\admin\source\repos\DateTimeCalculator\DateTimeCalculator\bin\Debug\DateTimeCalculator.exe
+C:\Users\admin\source\repos\DateTimeCalculator\DateTimeCalculator\bin\Debug\DateTimeCalculator.pdb
+C:\Users\admin\source\repos\DateTimeCalculator\DateTimeCalculator\obj\Debug\DateTimeCalculator.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DateTimeCalculator\DateTimeCalculator\obj\Debug\DateTimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DateTimeCalculator\DateTimeCalculator\obj\Debug\DateTimeCalculator.exe
+C:\Users\admin\source\repos\DateTimeCalculator\DateTimeCalculator\obj\Debug\DateTimeCalculator.pdb
